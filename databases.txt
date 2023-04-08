@@ -1,0 +1,8 @@
+https://www.physionet.org/content/svdb/1.0.0/
+https://www.physionet.org/content/stdb/1.0.0/
+https://www.physionet.org/content/nsrdb/1.0.0/
+https://www.physionet.org/content/vfdb/1.0.0/
+
+https://www.physionet.org/content/mitdb/1.0.0/
+https://www.physionet.org/files/mitdb/1.0.0/mitdbdir/tables.htm
+https://www.physionet.org/files/mitdb/1.0.0/mitdbdir/intro.htm#symbols
